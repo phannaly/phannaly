@@ -1,7 +1,7 @@
 ### Hi I'm Phanna 👋
 
 - 🔭 I’m currently working at Bongloy
-- 🌱 I’m currently learning Kotlin and Android
+- 🌱 I use Ruby, PHP, Javascript and now learning Kotlin and Swift for native mobile
 - 💬 Ask me about anything
 - 😄 Pronouns: he/him
 
