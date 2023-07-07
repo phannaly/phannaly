@@ -2,9 +2,10 @@
 
 A DevOps Engineer by Weekday, Hiker by Weekend.
 
-- Development: Ruby, PHP, Javascript/TypeScript, Kotlin, Java
+- Development: Ruby, PHP, Javascript/TypeScript, Kotlin, Java, Bash Script
+- Frameworks: Laravel, Vue, Spring Boot, Ruby On Rails
 - DevOps: Ansible, Docker, Docker Swarm, Kubernetes, Jenkins, Terraform, CI/CD pipeline
-- Cloud Provider: AWS, Google Cloud Platform, DigitalOcean
+- Cloud Providers: AWS, Google Cloud Platform, DigitalOcean
 - Other tools: Nginx, Apache, HAProxy, ELK, Prometheus, Grafana
 
 
