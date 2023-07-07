@@ -1,6 +1,6 @@
 ### Hi I'm Phanna 👋
 
-A DevOps Engineer base in Cambodia.
+A DevOps Engineer by weekday, Hiker by weekend.
 
 - Development: Ruby, PHP, Javascript/TypeScript, Kotlin, Java
 - DevOps: Ansible, Docker, Docker Swarm, Kubernetes, Jenkins, Terraform, CI/CD pipeline
